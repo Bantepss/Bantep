@@ -32,7 +32,7 @@ I'm an Information Systems and Technology undergraduate student at Institut Tekn
 
 ## 📊 GitHub Stats
 <!-- Kamu bisa menggunakan situs seperti github-readme-stats untuk menghasilkan kartu statistik otomatis -->
-![Farhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bantep&show_icons=true&theme=radium)
+![Farhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Farhan_Izdiyad&show_icons=true&theme=radium)
 
 ## 📫 Let's Connect!
 - **LinkedIn:** www.linkedin.com/in/farhan-izdiyad-726a80337
